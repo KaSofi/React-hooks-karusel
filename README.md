@@ -1,6 +1,9 @@
-Carusel
+Carusel/ 
+
 Using React - Hooks
+
 WebSite: https://react-hooks-carusel.netlify.app/
+
 
 ![moscow](https://github.com/KaSofi/React-hooks-karusel/assets/103929930/f3b09ed4-a7d5-4d13-a01c-7209bc086ce1)
 
